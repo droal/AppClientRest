@@ -24,7 +24,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React ios!
+          Welcome to React androi & ios!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
